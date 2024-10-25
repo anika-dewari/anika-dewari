@@ -1,10 +1,6 @@
 <h1 align="center">Hi , I'm Anika Dewari</h1>
 <h3 align="center">An Engineering Student from <b>India</b>.</h3>
 
-
-
-
-
 - 🌱 I’m pursuing *B.Tech in CSE (currenty in 2 nd year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
 
 - 💬 Ask me about  **`C` , `C++` , `Python`**.
@@ -28,12 +24,16 @@
   </a>
 </p>
 </h2>
-<h3>My Socials :</h3> 
-
+<h3>Coding Profiles :</h3> 
+<h2>  
 <a href="https://leetcode.com/u/anikadewari26/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anikadewari/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/anikadewrf9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/anika26" target="_blank" rel="noreferrer">Coding Ninjas</a>
-<a href="https://www.linkedin.com/in/anika-dewari/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  </h2>
 
-<br>
+<h3>Socials :</h3>
+<h2>
+<a href="https://www.linkedin.com/in/anika-dewari/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+</h2>
+
