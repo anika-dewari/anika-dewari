@@ -3,7 +3,7 @@
 
 - 🌱 I’m pursuing *B.Tech in CSE (currenty in 3rd year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
 
-- 💬 Ask me about  **`C` , `C++` , `Python`,`React`, `Tailwind CSS`**.
+- 💬 Ask me about  **`C` , `C++` , `Python` , `React` , `Tailwind CSS`**.
 
 - 📫 How to reach me *anikadewari26@gmail.com/dewarianika26@gmail.com*
 
