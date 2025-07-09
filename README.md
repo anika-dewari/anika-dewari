@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Anika Dewari</h1>
 <h3 align="center">An Engineering Student from <b>India</b>.</h3>
 
-- 🌱 I’m pursuing *B.Tech in CSE (currenty in 2 nd year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
+- 🌱 I’m pursuing *B.Tech in CSE (currenty in 3 rd year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
 
 - 💬 Ask me about  **`C` , `C++` , `Python`**.
 
